@@ -1,5 +1,7 @@
 class PostController < ApplicationController
+  
   def index
-    @posts = "post 1"
+    @posts = 'post_1'
   end
+
 end
